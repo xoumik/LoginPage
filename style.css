@@ -14,7 +14,7 @@
 
 body {
   height: 100vh;
-  background: #fff;
+  background: linear-gradient(to right, #1c3d69, #537895);
   display: grid;
   place-content: center;
   font-family: "Poppins", sans-serif;
@@ -25,7 +25,6 @@ body {
   width: 850px;
   height: 500px;
   background-color: #fff;
-  box-shadow: 25px 30px 55px #5558;
   border-radius: 15px;
   overflow: hidden;
 }
